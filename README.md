@@ -1,7 +1,6 @@
 # Virtual-Contrast-CT
 This repo is for the paper - [Virtual contrast enhancement for CT scans of abdomen and pelvis](https://www.sciencedirect.com/science/article/abs/pii/S0895611122000672)
 
-
 # About UNet/FCN PyTorch
 
 This repository is based on PyTorch implementations of U-Net and FCN, which are deep-learning segmentation methods proposed by Ronneberger et al. and Long et al.
@@ -26,9 +25,11 @@ Set the path in the training session and run:
 set the path in the testing session and run:
 - python test.py
 
-# Model & Test sample: [GoolgeDrive](https://drive.google.com/drive/folders/16fMQX28qh5fvv_mg055DmTKWaZUvI9eY?usp=share_link)
+# Model & Test sample 
+[GoogleDrive](https://drive.google.com/drive/folders/16fMQX28qh5fvv_mg055DmTKWaZUvI9eY?usp=share_link)
 
-# Pretrained model:
+# Pretrained model
 Load pre-train model: pretrained_intensity_model_4level_3c6.pth
-# Trained model:
+
+# Trained model
 Try early stage: earlystage_C_32_BCE_HRl5_pix_G_3C_adddreg_s256c224_tw_40.pth
