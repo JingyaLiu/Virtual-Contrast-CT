@@ -27,7 +27,8 @@ python train.py
 set the path in the testing session and run:
 python test.py
 
-Model: 
+Model: https://drive.google.com/drive/folders/16fMQX28qh5fvv_mg055DmTKWaZUvI9eY?usp=share_link
+
 # Pretain model:
 Load pretrain model: pretrained_intensity_model_4level_3c6.pth
 # Train model:
