@@ -1,10 +1,10 @@
 # Virtual-Contrast-CT
-This repo is for paper "Virtual contrast enhancement for CT scans of abdomen and pelvis"
+This repo is for paper "Virtual contrast enhancement for CT scans of abdomen and pelvis" (https://www.sciencedirect.com/science/article/abs/pii/S0895611122000672)
 
 
-# UNet/FCN PyTorch
+# About UNet/FCN PyTorch
 
-This repository contains simple PyTorch implementations of U-Net and FCN, which are deep learning segmentation methods proposed by Ronneberger et al. and Long et al.
+This repository based on PyTorch implementations of U-Net and FCN, which are deep learning segmentation methods proposed by Ronneberger et al. and Long et al.
 
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 - [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
