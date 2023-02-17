@@ -10,7 +10,6 @@ This repository contains simple PyTorch implementations of U-Net and FCN, which 
 - [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
 
 
-
 # Prepare Dataset and DataLoader
 
 
@@ -24,7 +23,12 @@ python train.py
 
 
 
-# test
+# Define testing
 set the path in the testing session and run:
 python test.py
 
+Model: 
+# Pretain model:
+Load pretrain model: pretrained_intensity_model_4level_3c6.pth
+# Train model:
+Try early stage: earlystage_C_32_BCE_HRl5_pix_G_3C_adddreg_s256c224_tw_40.pth
